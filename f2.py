@@ -24,4 +24,4 @@ for row in lines:
             globalCounterC += 1
 print("a: ",globalCounterA)
 print("b: ",globalCounterB)
-print("c: ",globalCounterC)
+print("c: ",globalCounterC) 
