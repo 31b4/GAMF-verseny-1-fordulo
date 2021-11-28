@@ -1,2 +1,2 @@
 # GAMF-verseny-1-fordulo
-ez
+25/27
